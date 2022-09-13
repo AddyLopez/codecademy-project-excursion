@@ -8,7 +8,7 @@ Student project for Codecademy. Learning objective: To use the design spec and m
 
 - Semantic HTML
 - Responsive CSS
-- Follows a professional design spec and includes client's media assets.
+- Follows a professional design spec and includes client's media assets
 - Accessibility rating by Lighthouse audit: 100/100
-- Coded in VS Code using professional development workflow tools such as Live Server, GitHub Desktop, and GitHub Pages.
-- A polished README using Markdown.
+- Coded in VS Code using professional development workflow tools such as Live Server, GitHub Desktop, and GitHub Pages
+- A polished README using Markdown
