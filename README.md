@@ -4,7 +4,7 @@
 
 Student project for Codecademy.
 
-Learning objective: To use the design spec and media assets (e.g. video, image, icon) to build a landing page that advertises a mobile app.
+**_Learning objective_**: To use the design spec and media assets (e.g. video, image, icon) to build a landing page that advertises a mobile app.
 
 ## Features
 
