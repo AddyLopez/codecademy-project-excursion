@@ -1,6 +1,6 @@
 # Excursion
 
-**_View this project_**: https://addylopez.github.io/codecademy-project-excursion/
+**_View this project_**: [https://addylopez.github.io/codecademy-project-excursion/](https://addylopez.github.io/codecademy-project-excursion/)
 
 ## Description
 
