@@ -1,5 +1,7 @@
 # Excursion
 
+**_View this project_**: https://addylopez.github.io/codecademy-project-excursion/
+
 ## Description
 
 Student project for Codecademy.
